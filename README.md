@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Todo app with redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## What is this "Todo App ✅" about?
 
-In the project directory, you can run:
+The [Todo App ✅](https://compassionate-cori-8e1260.netlify.app/) is designed to add Todo and explore the basics of react-redux.
 
-### `npm start`
+## Live Preview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Visit the live "Todo App ✅" here ==> https://compassionate-cori-8e1260.netlify.app/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Visual Representation:
 
-### `npm test`
+![redux-todo](https://user-images.githubusercontent.com/43074604/158029026-5d600fb5-5049-4663-9d75-d4faa4b3df84.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Advantages
 
-### `npm run build`
+- You can add todos.
+- You can delete single todo when it finishes.
+- You can remove whole todo items at one click.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Resources
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Fonts
 
-### `npm run eject`
+- [Google Fonts](https://fonts.google.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### ReactJS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [ReactJS](https://reactjs.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### Redux
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Redux] (https://redux.js.org/)
 
-## Learn More
+#### CSS
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [CSS](https://www.w3schools.com/css/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Texts and Headings
 
-### Code Splitting
+- [Texts](https://www.google.com/search?q=text+forsite&source=lmns&bih=657&biw=1366&hl=en&sa=X&ved=2ahUKEwi_irL9mazxAhXztksFHdywBGQQ_AUoAHoECAEQAA)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Learning More
 
-### Analyzing the Bundle Size
+- [Don't Fear the Internet](http://www.dontfeartheinternet.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## Sharing Project Experience!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The project was such a wonderful experience. It was challenging, meaningful, and deeply fulfilling✨
