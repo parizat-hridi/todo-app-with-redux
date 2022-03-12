@@ -34,7 +34,7 @@ Visit the live "Todo App ✅" here ==> https://compassionate-cori-8e1260.netlify
 
 #### Redux
 
-- [Redux] (https://redux.js.org/)
+- [Redux](https://redux.js.org/)
 
 #### CSS
 
